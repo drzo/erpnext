@@ -565,7 +565,7 @@
   },
   {
    "fieldname": "shipping_address",
-   "fieldtype": "Small Text",
+   "fieldtype": "Text Editor",
    "hide_days": 1,
    "hide_seconds": 1,
    "label": "Shipping Address",
@@ -1998,7 +1998,7 @@
   {
    "allow_on_submit": 1,
    "fieldname": "dispatch_address",
-   "fieldtype": "Small Text",
+   "fieldtype": "Text Editor",
    "label": "Dispatch Address",
    "read_only": 1
   },
@@ -2193,7 +2193,7 @@
    "link_fieldname": "consolidated_invoice"
   }
  ],
- "modified": "2024-03-22 16:01:15.249244",
+ "modified": "2024-03-22 16:15:06.038748",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Sales Invoice",
