@@ -494,7 +494,7 @@
   },
   {
    "fieldname": "address_display",
-   "fieldtype": "Small Text",
+   "fieldtype": "Text Editor",
    "hide_days": 1,
    "hide_seconds": 1,
    "label": "Address",
@@ -583,7 +583,7 @@
   },
   {
    "fieldname": "company_address_display",
-   "fieldtype": "Small Text",
+   "fieldtype": "Text Editor",
    "hide_days": 1,
    "hide_seconds": 1,
    "label": "Company Address",
@@ -2193,7 +2193,7 @@
    "link_fieldname": "consolidated_invoice"
   }
  ],
- "modified": "2024-03-20 16:02:52.237732",
+ "modified": "2024-03-22 16:01:15.249244",
  "modified_by": "Administrator",
  "module": "Accounts",
  "name": "Sales Invoice",
